@@ -1,5 +1,4 @@
 # TugasTambah-ToDo-List-App
-# Tugas Tambah – To-Do List App
 
 ## Deskripsi Project
 Project ini merupakan aplikasi To-Do List sederhana berbasis web.  
