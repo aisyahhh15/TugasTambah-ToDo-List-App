@@ -2,7 +2,7 @@
 
 ## Deskripsi Project
 Project ini merupakan aplikasi To-Do List sederhana berbasis web.  
-Aplikasi ini dibuat sebagai **tugas tambahan**, bukan UAS, untuk melatih penggunaan HTML, CSS, dan JavaScript (DOM).
+Aplikasi ini dibuat sebagai **tugas tambahan**, untuk menambah nilai dan melatih penggunaan HTML, CSS, dan JavaScript (DOM).
 
 ## Alur Logika / Algoritma
 1. Mengisi nama tugas
